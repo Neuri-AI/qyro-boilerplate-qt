@@ -4,7 +4,7 @@ from qyro_engine import ApplicationContext
 from qyro_engine.ui.component import Component
 
 
-class ${app_name}(QMainWindow, Component, ApplicationContext):
+class ${class_name}(QMainWindow, Component, ApplicationContext):
 
     def component_will_mount(self):
         self.setMinimumSize(640, 480)
