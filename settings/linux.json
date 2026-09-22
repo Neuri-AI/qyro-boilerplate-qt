@@ -15,7 +15,8 @@
         "upx_level": 1,
         "bytecode_opt": 0,
         "upx_excludes": [
-            "${binding}.QtCore.pyd"
+            "libpython3*.so*",
+            "QtCore.abi3.so"
         ],
         "exclude_modules": [
             "tkinter",
