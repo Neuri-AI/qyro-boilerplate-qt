@@ -2,7 +2,7 @@
 
 > **The official, universal Qt desktop starter template for the [Qyro](https://github.com/Neuri-AI/qyro) ecosystem.**
 
-[![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12%20%7C%203.13%20%7C%203.14%20%7C%20-blue.svg)](https://python.org)
 [![Qt Bindings](https://img.shields.io/badge/Qt-PySide6%20%7C%20PyQt6%20%7C%20PyQt5%20%7C%20PySide2-green.svg)](https://qt.io)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
