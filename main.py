@@ -1,7 +1,7 @@
 import sys
 from ${python_bindings}.QtWidgets import QMainWindow, QLabel
-from qyro_engine import ApplicationContext
-from qyro_engine.ui.component import Component
+from qyro import ApplicationContext
+from qyro.ui.component import Component
 
 
 class ${class_name}(QMainWindow, Component, ApplicationContext):
