@@ -26,4 +26,4 @@ class ${class_name}(QMainWindow, Component, ApplicationContext):
 if __name__ == "__main__":
     window = ${class_name}()
     window.show()
-    sys.exit(window.exec())
+    sys.exit(window.run())
